@@ -1,4 +1,4 @@
-# ParallelMergeSort
+# Parallel Merge Sort Algorithm
 Development of "Parallel Merge Sort" on the Charm++ Framework
 
 This project is a parallel merge sort writted in Charm++. The purpose is obtain a comparison between OpenMP and Charm++ frameworks, in terms of performance.
